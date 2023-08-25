@@ -11,4 +11,4 @@ This app was created so that you can more easily manage your employee database
 4. Once in the directory of the file you cloned the repo to, use the command line to type "node server.js" to run the program
 
 ## Screencastify Video
-A video playback of the app being run is available here
+A video playback of the app being run is available here https://drive.google.com/file/d/1gNwwFdrnslXhFVgt0WID1DG6PwOn58yI/view
